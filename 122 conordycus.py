@@ -6,10 +6,10 @@ import leaderboard as lb
 #-----game configuration----
 shape = "circle"
 size = 3    
-color ={"green","red","purple","yellow"}
 score = 0
+color = "green"
 font_setup = ("Arial", 20, "normal")
-timer = 5
+timer = 10
 counter_interval = 1000  
 timer_up = False
 
